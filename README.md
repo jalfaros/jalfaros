@@ -1,5 +1,3 @@
-# Información personal
-
 ## Jose Ignacio Alfaro Solano
 
 
