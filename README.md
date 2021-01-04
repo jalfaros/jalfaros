@@ -1,8 +1,8 @@
 ## Jose Ignacio Alfaro Solano
 
 
-- Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica
-- Desarrollador fullstack en Comunidad de Aplicaciones Móviles (ITCR)
+- Estudiante de Ingeniería en Computación en el Tecnológico de Costa Rica (TEC)
+- Desarrollador Fullstack en Comunidad de Aplicaciones Móviles (TEC)
 
 ## Skills 
 
