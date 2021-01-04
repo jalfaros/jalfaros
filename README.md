@@ -1,16 +1,29 @@
-### Hi there 👋
+# Información personal
 
-<!--
-**jalfaros/jalfaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Jose Ignacio Alfaro Solano
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica
+- Desarrollador fullstack en Comunidad de Aplicaciones Móviles (ITCR)
+
+## Skills 
+
+- Lenguajes
+  - Java
+  - Python
+  - C#
+  - C++
+  - Javascript
+
+- Bases de datos
+  - SQL Server 
+  - Postgres
+  - MySQL
+
+- Web 
+  - Frontend:
+    - Angular 9+
+    - React 
+  - Backend:
+    - Node JS
+   
