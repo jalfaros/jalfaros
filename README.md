@@ -4,10 +4,10 @@
 - Desarrollador Fullstack en Comunidad de Aplicaciones Móviles (TEC)
 ---
 
-<span align = "center" > 
+<span> 
 
- <img  src = "https://github-readme-stats.vercel.app/api?username=jalfaros&show_icons=true&theme=radical&line_height=34">
+ <img align = "left"  src = "https://github-readme-stats.vercel.app/api?username=jalfaros&show_icons=true&theme=radical&line_height=33.5">
    
- <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jalfaros&hide=css,html&theme=tokyonight">
+ <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jalfaros&hide=css,html&theme=tokyonight">
 
 </span>
