@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Ignacio Alfaro Solano</h1>
-<h3 align="center">A passionate software engineer student from Costa Rica, actually finishing my degree</h3>
+<h3 align="center">A passionate software engineer student, actually finishing my degree</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
